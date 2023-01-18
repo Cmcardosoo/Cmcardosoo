@@ -1,5 +1,7 @@
 ### Hi there 👋
-# Meu nome é Claudio Marcelo, tenho 32 anos e sou natural de Campo Belo, MG. Sou formado em Automação Industrial pela ETE em Santa Rita do Sapucaí, MG. Atualmente ingressei no curso de desenvolvimento web fullstack da Trybe e estou passando por uma transição de carreira. 
+# 
+
+Meu nome é Claudio Marcelo, tenho 32 anos e sou natural de Campo Belo, MG. Sou formado em Automação Industrial pela ETE em Santa Rita do Sapucaí, MG. Atualmente ingressei no curso de desenvolvimento web fullstack da Trybe e estou passando por uma transição de carreira. 
 Neste curso aprenderei os fundamentos do desenvolvimento web, desenvolvimento Front-end e Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais. 
 
 
